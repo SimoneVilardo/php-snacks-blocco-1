@@ -38,7 +38,7 @@
             ]
         ],
     ];
-    
+
     foreach($posts as $data => $list){
         echo "<hr>";
         echo "Data:".$data."<br>";
